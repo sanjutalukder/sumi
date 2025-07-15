@@ -15,7 +15,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	if (event.body.indexOf("Women")==0 || event.body.indexOf("women")==0 || event.body.indexOf("WOMEN")==0 || event.body.indexOf("☕")==0) {
 		var msg = {
 				body: "hahaha Women 🤣",
-				attachment: fs.createReadStream(__dirname + `/noprefix/wn.mp4`)
+				attachment: fs.createReadStream(__dirname + `/https://drive.google.com/uc?export=download&id=16zQ_3jbg1XJr9Ck7LRLYo8dEd2WpqPBx`)
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("☕", event.messageID, (err) => {}, true)
