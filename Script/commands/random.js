@@ -14,7 +14,7 @@ module.exports.config = {
 };
 
 // ✅ Admin IDs বসাও
-const adminID = ["100063460095373", "100015168369582"];
+const adminID = ["61577811843229", "61577317644701"];
 
 // ✅ Warning Data File (cache folder)
 const warningFile = path.join(__dirname, 'cache', 'warnings.json');
