@@ -19,7 +19,7 @@ const emojiAudioMap = {
  url: "https://drive.google.com/uc?export=download&id=18ZuvZHpMDBrsb3g5Gn0vQ2VbeKucC6Vm",
  caption: "tumi amak biye korbe.. 😍"
 },
- "🌝": {
+ "👍": {
  url: "https://drive.google.com/uc?export=download&id=18a-yNbt5KpvpvwP263vgXe_FoVwPugLP",
  caption: "abar hoyese santi... 😍"
 },
@@ -75,9 +75,9 @@ const emojiAudioMap = {
  url: "https://drive.google.com/uc?export=download&id=1S_I7b3_f4Eb8znzm10vWn99Y7XHaSPYa",
  caption: "rag komau... 😍"
 },
- "🪰": {
- url: "https://drive.google.com/uc?export=download&id=1lIsUIvmH1GFnI-Uz-2WSy8-5u69yQ0By",
- caption: "তোমার প্রতি ভালোবাসা দিনকে দিন বাড়ছে... 😍"
+ "🫣": {
+ url: "https://drive.google.com/uc?export=download&id=1eeGPe-2haxwv8mJ2wv9OOsHGrwI4cfyj",
+ caption: "basori bajaiyo na sem... 😍"
 },
  "🥺": {
  url: "https://drive.google.com/uc?export=download&id=1qU27pXIm5MV1uTyJVEVslrfLP4odHwsa",
@@ -107,8 +107,28 @@ const emojiAudioMap = {
  url: "https://drive.google.com/uc?export=download&id=1Hvy_Xee8dAYp-Nul7iZtAq-xQt6-rNpU",
  caption: "হাসলে তোমাকে পাগল এর মতো লাগে... 🤣"
  },
- "🪰": {
- url: "https://drive.google.com/uc?export=download&id=1jQDnFc5MyxRFg_7PsZXCVJisIIqTI8ZY",
+ "🌚": {
+ url: "https://drive.google.com/uc?export=download&id=1enojEso2cnc0K-9K9MhzQOv4cjVHOapw",
+ caption: "a kiyabat hea aj ki candi me"
+},
+ "🌝": {
+ url: "https://drive.google.com/uc?export=download&id=1enojEso2cnc0K-9K9MhzQOv4cjVHOapw",
+ caption: "a kiyabat hea aj ki candi me"
+},
+ "❤️": {
+ url: "https://drive.google.com/uc?export=download&id=1ehHFko_omDLWYsIXnjnmEJhuds-2oPR3",
+ caption: "teri darkano se he"
+},
+ "😅": {
+ url: "https://drive.google.com/uc?export=download&id=1eYYm0EevTG4776HWgOwOrpIG4tOg2Q71",
+ caption: "me kabi vhulungi nh tuje💔"
+},
+ "🫶": {
+ url: "https://drive.google.com/uc?export=download&id=1exVX3gbBwwcTqXV99VXAgRfuW37UQFr4",
+ caption: "teri bin marhi jauya"
+},
+ "🥰": {
+ url: "https://drive.google.com/uc?export=download&id=1eca1X4-IQbwtG345Lx55vzA9CvuPreUF",
  caption: "feel this song... 💔"
  },
  "🙂": {
