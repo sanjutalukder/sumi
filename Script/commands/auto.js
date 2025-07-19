@@ -29,7 +29,8 @@ const data = await alldown(content);
  fs.writeFileSync(__dirname + "/cache/auto.mp4", Buffer.from(video, "utf-8"))
 
  return api.sendMessage({
- body: `🔥🚀 ꜱᴜᴍᴜ ᴄʜᴀᴛ ʙᴏᴛ | ᴿᴵˢᵁ 🔥💻 
+ body: `🔥🚀 𝐒𝐔𝐌𝐔 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 | 
+🔥💻 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 ♡ 𝐑𝐈𝐒𝐔⚡🐙
 📥⚡𝗔𝘂𝘁𝗼 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿⚡📂
 🎬 𝐄𝐧𝐣𝐨𝐲 𝐭𝐡𝐞 𝐕𝐢𝐝𝐞𝐨 🎀`,
  attachment: fs.createReadStream(__dirname + "/cache/auto.mp4")
